@@ -1,0 +1,7 @@
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\MainWindow.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\App.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\DianaDevLibSample_Content.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\DianaDevLibSample_MarkupCompile.cache
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\DianaDevLibSample_MarkupCompile.lref
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Release\DianaDevLibSample.csprojResolveAssemblyReference.cache

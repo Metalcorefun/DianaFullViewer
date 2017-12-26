@@ -1,0 +1,81 @@
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLib.dll
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\bin\x86\Debug\sense4.dll
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe.config
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.pdb
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\App.g.cs
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_Content.g.cs
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.cache
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.lref
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.baml
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.g.resources
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.Properties.Resources.resources
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.exe
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClear\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.pdb
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLib.dll
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\sense4.dll
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe.config
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.pdb
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csprojResolveAssemblyReference.cache
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\App.g.cs
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_Content.g.cs
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.cache
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.lref
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.baml
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.g.resources
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.Properties.Resources.resources
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csproj.GenerateResource.Cache
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.exe
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.pdb
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\Npgsql.dll
+C:\Users\Антон\Desktop\Универ и работа\МПК\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLib.dll
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\sense4.dll
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe.config
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.pdb
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.g.cs
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\App.g.cs
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_Content.g.cs
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.cache
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.lref
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.baml
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.g.resources
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.Properties.Resources.resources
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csproj.GenerateResource.Cache
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.exe
+D:\Programming\Projects\DianaDevLibSampleClearParser\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.pdb
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLib.dll
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\sense4.dll
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe.config
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.exe
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\DianaDevLibSample.pdb
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\OxyPlot.dll
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\OxyPlot.Wpf.dll
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\System.Threading.Tasks.Extensions.dll
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\OxyPlot.pdb
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\OxyPlot.xml
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\OxyPlot.Wpf.pdb
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\bin\x86\Debug\OxyPlot.Wpf.xml
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csprojResolveAssemblyReference.cache
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\App.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_Content.g.cs
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.cache
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample_MarkupCompile.lref
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\MainWindow.baml
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.g.resources
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.Properties.Resources.resources
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csproj.GenerateResource.Cache
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.csproj.CoreCompileInputs.cache
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.exe
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\DianaDevLibSample.pdb
+D:\Programming\Projects\DianaFullViewer\DianaDevLibSampleClear\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
